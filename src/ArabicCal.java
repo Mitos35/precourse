@@ -26,7 +26,7 @@ public class ArabicCal {
 
         }
 
-        System.out.println(result);
+        System.out.println("Результат: " + result);
 
     }
 

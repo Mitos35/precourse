@@ -86,7 +86,7 @@ public class RomanCal {
                 System.out.println("Операция не распознана. Повторите ввод.");
         }
 
-        System.out.println(roman(result));
+        System.out.println("Результат: " + roman(result));
 
     }
 
